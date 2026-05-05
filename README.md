@@ -1,1 +1,1 @@
-﻿This is Student A's Collaborative Project.
+﻿This is Student A's Project.
